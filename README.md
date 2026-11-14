@@ -4,7 +4,9 @@
 
 I build practical software for real businesses: real-time systems, REST APIs, location-based services and mobile apps. Background in IT analysis and programming, with hands-on experience in hospitality operations, which shapes how I design tools for restaurants and service businesses.
 
-🌍 Spanish (native) · English · open to remote and on-site roles in Germany
+- 🔭 Currently building real-time and location-based web apps
+- 💼 Open to junior Full Stack / Software Developer roles: remote or on-site in Germany
+- 🌍 Languages: Spanish (native), English
 
 ---
 
