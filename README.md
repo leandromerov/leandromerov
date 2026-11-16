@@ -45,5 +45,7 @@ I build practical software for real businesses: real-time systems, REST APIs, lo
 
 ### 📫 Contact
 
+- 📄 [Download my CV (PDF)](https://github.com/leandromerov/leandromerov/raw/main/CV_Leandro_Romero_Villalobos_EN.pdf)
+
 - ✉️ leandroromerovillalobos@gmail.com
 - 📍 Passau, Bavaria, Germany
